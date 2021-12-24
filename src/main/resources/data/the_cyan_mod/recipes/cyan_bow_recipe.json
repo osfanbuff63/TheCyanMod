@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "minecraft:bow"
+  },
+  "addition": {
+    "item": "the_cyan_mod:cyan_gem"
+  },
+  "result": {
+    "item": "the_cyan_mod:cyan_bow"
+  }
+}

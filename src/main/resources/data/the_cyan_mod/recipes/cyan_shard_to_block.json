@@ -1,0 +1,42 @@
+{
+  "group": "cyan_shard",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "the_cyan_mod:cyan_gem"
+    },
+    "1": {
+      "item": "the_cyan_mod:cyan_gem"
+    },
+    "2": {
+      "item": "the_cyan_mod:cyan_gem"
+    },
+    "3": {
+      "item": "the_cyan_mod:cyan_gem"
+    },
+    "4": {
+      "item": "the_cyan_mod:cyan_gem"
+    },
+    "5": {
+      "item": "the_cyan_mod:cyan_gem"
+    },
+    "6": {
+      "item": "the_cyan_mod:cyan_gem"
+    },
+    "7": {
+      "item": "the_cyan_mod:cyan_gem"
+    },
+    "8": {
+      "item": "the_cyan_mod:cyan_gem"
+    }
+  },
+  "result": {
+    "item": "the_cyan_mod:cyan_shard_block",
+    "count": 1
+  }
+}

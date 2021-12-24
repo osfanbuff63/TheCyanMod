@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "the_cyan_mod:blocks/cyanshardblock",
+    "up": "the_cyan_mod:blocks/cyanshardblock",
+    "north": "the_cyan_mod:blocks/cyanshardblock",
+    "east": "the_cyan_mod:blocks/cyanshardblock",
+    "south": "the_cyan_mod:blocks/cyanshardblock",
+    "west": "the_cyan_mod:blocks/cyanshardblock",
+    "particle": "the_cyan_mod:blocks/cyanshardblock"
+  }
+}

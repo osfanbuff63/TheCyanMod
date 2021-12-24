@@ -1,0 +1,23 @@
+{
+  "_fv": 24,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Smithing",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "cyan_tools",
+    "recipeShapeless": false,
+    "smithingInputStack": {
+      "value": "Items.NETHERITE_SHOVEL"
+    },
+    "smithingInputAdditionStack": {
+      "value": "CUSTOM:CyanGem"
+    },
+    "smithingReturnStack": {
+      "value": "CUSTOM:CyanShovel"
+    },
+    "name": "cyan_shovel_recipe",
+    "namespace": "mod"
+  }
+}

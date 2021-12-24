@@ -1,0 +1,13 @@
+{
+  "group": "cyan_shard",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "the_cyan_mod:cyan_shard_block"
+    }
+  ],
+  "result": {
+    "item": "the_cyan_mod:cyan_gem",
+    "count": 9
+  }
+}

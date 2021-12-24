@@ -1,0 +1,19 @@
+{
+  "group": "cyan_other",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:cyan_dye"
+    },
+    "1": {
+      "item": "minecraft:stone"
+    }
+  },
+  "result": {
+    "item": "the_cyan_mod:cyan_stone",
+    "count": 1
+  }
+}

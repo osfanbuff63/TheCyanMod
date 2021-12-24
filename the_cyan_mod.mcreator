@@ -1,0 +1,389 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "ClassBlocks",
+      "type": "tab",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "class_blocks"
+    },
+    {
+      "name": "CyanOre",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cyan_ore"
+    },
+    {
+      "name": "CyanGem",
+      "type": "item",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cyan_gem"
+    },
+    {
+      "name": "CyanShardBlock",
+      "type": "block",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cyan_shard_block"
+    },
+    {
+      "name": "CyanShardToBlock",
+      "type": "recipe",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cyan_shard_to_block"
+    },
+    {
+      "name": "CyanBlockToShards",
+      "type": "recipe",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cyan_block_to_shards"
+    },
+    {
+      "name": "CyanPickaxe",
+      "type": "tool",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cyan_pickaxe"
+    },
+    {
+      "name": "CyanPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cyan_pickaxe_recipe"
+    },
+    {
+      "name": "CyanAxe",
+      "type": "tool",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cyan_axe"
+    },
+    {
+      "name": "CyanAxeRecipe",
+      "type": "recipe",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cyan_axe_recipe"
+    },
+    {
+      "name": "Cyan",
+      "type": "armor",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cyan",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "CyanShovel",
+      "type": "tool",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cyan_shovel"
+    },
+    {
+      "name": "CyanSword",
+      "type": "tool",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cyan_sword"
+    },
+    {
+      "name": "CyanOreRecipe",
+      "type": "recipe",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cyan_ore_recipe"
+    },
+    {
+      "name": "CyanSwordRecipe",
+      "type": "recipe",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cyan_sword_recipe"
+    },
+    {
+      "name": "CyanShovelRecipe",
+      "type": "recipe",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cyan_shovel_recipe"
+    },
+    {
+      "name": "CyanHelmetRecipe",
+      "type": "recipe",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cyan_helmet_recipe"
+    },
+    {
+      "name": "CyanChestplateRecipe",
+      "type": "recipe",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cyan_chestplate_recipe"
+    },
+    {
+      "name": "CyanLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cyan_leggings_recipe"
+    },
+    {
+      "name": "CyanBootsRecipe",
+      "type": "recipe",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cyan_boots_recipe"
+    },
+    {
+      "name": "CyanPickaxeBlockDestroyedWithTool",
+      "type": "procedure",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cyan_pickaxe_block_destroyed_with_tool",
+      "metadata": {
+        "dependencies": []
+      }
+    },
+    {
+      "name": "CyanEgg",
+      "type": "food",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cyan_egg"
+    },
+    {
+      "name": "CyanEggRecipe",
+      "type": "recipe",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cyan_egg_recipe"
+    },
+    {
+      "name": "CyanStone",
+      "type": "block",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cyan_stone"
+    },
+    {
+      "name": "CyanWorldBiome",
+      "type": "biome",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cyan_world_biome"
+    },
+    {
+      "name": "CyanWorld",
+      "type": "dimension",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cyan_world",
+      "metadata": {
+        "ep": true
+      }
+    },
+    {
+      "name": "CyanArrow",
+      "type": "item",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cyan_arrow"
+    },
+    {
+      "name": "CyanBow",
+      "type": "rangeditem",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cyan_bow"
+    },
+    {
+      "name": "CyanArrowRecipe",
+      "type": "recipe",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cyan_arrow_recipe"
+    },
+    {
+      "name": "CyanStoneRecipe",
+      "type": "recipe",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cyan_stone_recipe"
+    },
+    {
+      "name": "CyanBowRecipe",
+      "type": "recipe",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cyan_bow_recipe"
+    },
+    {
+      "name": "CyanHoe",
+      "type": "tool",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cyan_hoe"
+    },
+    {
+      "name": "CyanHoeRecipe",
+      "type": "recipe",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cyan_hoe_recipe"
+    },
+    {
+      "name": "CyanLighterRecipe",
+      "type": "recipe",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cyan_lighter_recipe"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "block.the_cyan_mod.cyan_shard_block": "Cyan Shard Block",
+      "block.connected_camps_class_mod.cyan_ore": "Cyan Ore",
+      "item.the_cyan_mod.cyan_axe": "Cyan Axe",
+      "item.the_cyan_mod.cyan_boots": "Cyan Boots",
+      "item.connected_camps_class_mod.cyan_arrow": "Cyan Arrow",
+      "item.the_cyan_mod.cyan_gem": "Cyan Shard",
+      "item.connected_camps_class_mod.cyan_sword": "Cyan Sword",
+      "biome.the_cyan_mod.cyan_world_biome": "Cyan World Biome",
+      "block.the_cyan_mod.cyan_ore": "Cyan Ore",
+      "item.the_cyan_mod.cyan_helmet": "Cyan Helmet",
+      "item.the_cyan_mod.cyan_pickaxe": "Cyan Pickaxe",
+      "item.connected_camps_class_mod.cyan_axe": "Cyan Axe",
+      "item.connected_camps_class_mod.cyan_gem": "Cyan Shard",
+      "item.the_cyan_mod.cyan_hoe": "Cyan Hoe",
+      "block.connected_camps_class_mod.cyan_shard_block": "Cyan Shard Block",
+      "item.connected_camps_class_mod.cyan_shovel": "Cyan Shovel",
+      "item.the_cyan_mod.cyan_chestplate": "Cyan Chestplate",
+      "item.the_cyan_mod.cyan_bow": "Cyan Bow",
+      "item.connected_camps_class_mod.cyan_chestplate": "Cyan Chestplate",
+      "item.the_cyan_mod.cyan_egg": "Cyan Egg",
+      "biome.connected_camps_class_mod.cyan_world_biome": "Cyan World Biome",
+      "item.connected_camps_class_mod.cyan_hoe": "Cyan Hoe",
+      "item.connected_camps_class_mod.cyan_pickaxe": "Cyan Pickaxe",
+      "item.the_cyan_mod.cyan_leggings": "Cyan Leggings",
+      "item.connected_camps_class_mod.cyan_egg": "Cyan Egg",
+      "itemGroup.tabclass_blocks": "CyanStuff",
+      "item.connected_camps_class_mod.cyan_bow": "Cyan Bow",
+      "item.connected_camps_class_mod.cyan_helmet": "Cyan Helmet",
+      "block.the_cyan_mod.cyan_stone": "Cyan Stone",
+      "item.the_cyan_mod.cyan_sword": "Cyan Sword",
+      "item.the_cyan_mod.cyan_shovel": "Cyan Shovel",
+      "item.connected_camps_class_mod.cyan_world": "CyanLighter",
+      "item.the_cyan_mod.cyan_arrow": "Cyan Arrow",
+      "block.connected_camps_class_mod.cyan_stone": "Cyan Stone",
+      "item.the_cyan_mod.cyan_world": "CyanLighter",
+      "item.connected_camps_class_mod.cyan_leggings": "Cyan Leggings",
+      "item.connected_camps_class_mod.cyan_boots": "Cyan Boots"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "the_cyan_mod",
+    "modName": "The Cyan Mod",
+    "version": "1.2",
+    "author": "osfanbuff63, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "MIT License",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.17.1",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.mcreator.connectedcampsclassmod",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100351219
+}

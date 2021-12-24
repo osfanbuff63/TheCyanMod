@@ -1,0 +1,37 @@
+{
+  "_fv": 24,
+  "_type": "rangeditem",
+  "definition": {
+    "renderType": 0,
+    "texture": "cyan_bow",
+    "customModelName": "Normal",
+    "name": "Cyan Bow",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:ClassBlocks"
+    },
+    "stackSize": 1,
+    "ammoItem": {
+      "value": "CUSTOM:CyanArrow"
+    },
+    "shootConstantly": false,
+    "usageCount": 100,
+    "actionSound": {
+      "value": "entity.arrow.shoot"
+    },
+    "hasGlow": false,
+    "animation": "bow",
+    "enableMeleeDamage": false,
+    "damageVsEntity": 6.5,
+    "bulletPower": 1.0,
+    "bulletDamage": 6.5,
+    "bulletKnockback": 5,
+    "bulletParticles": false,
+    "bulletIgnitesFire": false,
+    "bulletItemTexture": {
+      "value": "CUSTOM:CyanArrow"
+    },
+    "bulletModel": "Default",
+    "customBulletModelTexture": ""
+  }
+}

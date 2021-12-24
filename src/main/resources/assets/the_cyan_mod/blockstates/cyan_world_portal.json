@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "the_cyan_mod:block/cyan_world_portal_ew"
+    },
+    "axis=x": {
+      "model": "the_cyan_mod:block/cyan_world_portal_ns"
+    }
+  }
+}

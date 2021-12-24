@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "minecraft:netherite_axe"
+  },
+  "addition": {
+    "item": "the_cyan_mod:cyan_gem"
+  },
+  "result": {
+    "item": "the_cyan_mod:cyan_axe"
+  }
+}
