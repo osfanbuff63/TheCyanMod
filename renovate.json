@@ -10,4 +10,5 @@
   "labels": ["dependencies"],
   "commitMessagePrefix": "deps: ",
   "rebaseWhen": "conflicted"
+  "ignoreDependendcies": ["net.minecraftforge:forge"]
 }
